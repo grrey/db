@@ -2,114 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3c92db8-f48c-4e04-9a1b-aaf34b70be7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/arrow.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/background2740d2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/download_hand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/download_hand_2x2740d2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/download_hand_4x2740d2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function1_book_page1_2x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function1_book_page1_4x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function1_book_page2_2x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function1_book_page2_4x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_01_2x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_01_4x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_02_2x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_02_4x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_03_2x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_03_4x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_04_2x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_04_4x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_05_2x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_05_4x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_06_2x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_06_4x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_07_2x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function2_book_07_4x2761ce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function3_book_2x2740d2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function3_book_4x2740d2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function4_table_background_4x2740d2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function_2x2788ec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/function_4x2788ec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/ie/ie_arrow_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/ie/ie_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/ie/ie_function1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/ie/ie_function2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/ie/ie_function3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/ie/ie_function4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/ie/ie_pageControl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/logo 2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/logo279486.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/logo_2x279486.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/mobile_background2740d2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/mobile_function4_table_background_4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/nav279486.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/nav_2x279486.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/pic_160.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/pic_article.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/ui_2x2761ce.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/ui_4x2761ce.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/pages/readme_fb.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/aa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/readme-mobile.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/readme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/example.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_footer_link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_intro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_actionSheet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_article.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_cell.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_dialog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_feedback.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_flow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_form.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_layout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_msg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_nav.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_panel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_progress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_search_bar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_special.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_tab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_toast.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_z-index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_nav_zindex.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/icon_tabbar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/layers/content.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/layers/navigation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/layers/popout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/layers/transparent.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/pic_160.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/pic_article.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/images/vcode.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/actionSheet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/cell.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/dialog1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/dialog2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/grid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/progress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/qrcode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/result.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/toast1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/snapshot/toast2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/example/zepto.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/style/weui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wei_dist/style/weui.min.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/pages/products.html" afterPath="$PROJECT_DIR$/app/pages/products.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/pages/readme.html" afterPath="$PROJECT_DIR$/app/pages/readme.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/main.js" afterPath="$PROJECT_DIR$/app/scripts/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -127,7 +20,7 @@
       <file leaf-file-name="readme.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/pages/readme.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
+            <state relative-caret-position="3186">
               <caret line="177" column="35" lean-forward="false" selection-start-line="177" selection-start-column="35" selection-end-line="177" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -136,11 +29,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zepto.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/zepto/zepto.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="80" column="37" lean-forward="false" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -173,10 +96,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/app/pages/products.html" />
         <option value="$PROJECT_DIR$/app/pages/readme.html" />
         <option value="$PROJECT_DIR$/app/scripts/main.js" />
+        <option value="$PROJECT_DIR$/bower_components/zepto/zepto.min.js" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -197,8 +122,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="215" />
     <option name="y" value="109" />
-    <option name="width" value="1532" />
-    <option name="height" value="903" />
+    <option name="width" value="1415" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -215,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,12 +153,16 @@
               <item name="pingD_app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pingD_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pingD_app" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,24 +207,25 @@
       <updated>1510137770337</updated>
       <workItem from="1510137771541" duration="1099000" />
       <workItem from="1510278657763" duration="9150000" />
+      <workItem from="1510629783635" duration="1193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10249000" />
+    <option name="totallyTimeSpent" value="11442000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="215" y="109" width="1532" height="903" extended-state="0" />
+    <frame x="215" y="109" width="1415" height="912" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2276638" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24677187" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3255814" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -319,6 +250,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/pages/readme.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3186">
+          <caret line="177" column="35" lean-forward="false" selection-start-line="177" selection-start-column="35" selection-end-line="177" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/icon_footer.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/arrow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/readme.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -331,41 +290,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
           <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -373,7 +297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -381,19 +304,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4274">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1509945723000" expanded="true" signature="7922:8096" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/zepto/zepto.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -401,7 +311,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -440,56 +349,16 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/background.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_pageControl.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_function4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_function3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_function2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_function1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_arrow_right.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_arrow_left.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/ui_2x2761ce.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/ui_4x2761ce.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/background.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_pageControl.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_function4.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_function3.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_function2.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_function1.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_arrow_right.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/ie/ie_arrow_left.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/ui_2x2761ce.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/ui_4x2761ce.png" />
     <entry file="file://$PROJECT_DIR$/app/images/icon_nav_special.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -510,14 +379,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/wei_dist/example/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wei_dist/example/index.html" />
     <entry file="file://$PROJECT_DIR$/app/images/icon_tabbar.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -545,7 +407,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/readme.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
+        <state relative-caret-position="3186">
           <caret line="177" column="35" lean-forward="false" selection-start-line="177" selection-start-column="35" selection-end-line="177" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -555,8 +417,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/zepto/zepto.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="80" column="37" lean-forward="false" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>
